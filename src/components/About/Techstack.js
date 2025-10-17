@@ -1,68 +1,57 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiMongodb,
-  DiPython,
-  DiGit,
-  DiJava,
+  DiHtml5,
+  DiCss3,
 } from "react-icons/di";
 import {
-  SiRedis,
-  SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
+  SiTypescript,
+  SiOpenai,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+import { BiBrain } from "react-icons/bi";
+import { MdAutoAwesome } from "react-icons/md";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
+        <p style={{ fontSize: "14px", marginTop: "10px" }}>JavaScript</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <TbBrandGolang />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <SiTypescript />
+        <p style={{ fontSize: "14px", marginTop: "10px" }}>TypeScript</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
+        <p style={{ fontSize: "14px", marginTop: "10px" }}>React</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiSolidity />
+        <DiNodejs />
+        <p style={{ fontSize: "14px", marginTop: "10px" }}>Node.js</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+        <DiHtml5 />
+        <p style={{ fontSize: "14px", marginTop: "10px" }}>HTML5</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+        <DiCss3 />
+        <p style={{ fontSize: "14px", marginTop: "10px" }}>CSS3</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <SiOpenai />
+        <p style={{ fontSize: "14px", marginTop: "10px" }}>Generative AI</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+        <MdAutoAwesome />
+        <p style={{ fontSize: "14px", marginTop: "10px" }}>Prompt Engineering</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedis />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostgresql />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiPython />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <DiJava />
+        <BiBrain />
+        <p style={{ fontSize: "14px", marginTop: "10px" }}>AI Integration</p>
       </Col>
     </Row>
   );
