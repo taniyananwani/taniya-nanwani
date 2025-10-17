@@ -1,10 +1,4 @@
-# Taniya Nanwani - Personal Portfolio
-
-<div align="center">
-  <img alt="Portfolio" src="./Images/readme-img1.png" />
-</div>
-
-<br/>
+## Taniya Nanwani - Personal Portfolio
 
 ## 🌟 About
 
