@@ -6,13 +6,6 @@
 
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-
-</center>
-
 ## 🌟 About
 
 This is my personal portfolio website showcasing my skills, projects, and professional journey as a **Full Stack AI Web Developer** and **Business Insights Expert**.
