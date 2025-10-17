@@ -1,9 +1,7 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
+# Taniya Nanwani - Personal Portfolio
+
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Portfolio" src="./Images/readme-img1.png" />
 </div>
 
 <br/>
@@ -11,66 +9,89 @@
 <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+## 🌟 About
 
-## TL;DR
+This is my personal portfolio website showcasing my skills, projects, and professional journey as a **Full Stack AI Web Developer** and **Business Insights Expert**.
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+## 👩‍💻 About Me
 
-## Built With
+I'm **Taniya Nanwani**, a passionate Full Stack AI Web Developer currently working at **TechRooot Technology**. I specialize in:
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+- 🤖 AI-powered web development
+- 🎯 Prompt engineering and Generative AI integration
+- 💡 Building scalable digital solutions
+- 📊 Business insights and market analysis
 
-This project was built using these technologies.
+## 🛠️ Built With
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+This portfolio is built using these technologies:
 
-## Features
+- **React.js** - Frontend framework
+- **React Router** - Navigation
+- **React Bootstrap** - UI components
+- **React Icons** - Icon library
+- **Typewriter Effect** - Dynamic text animation
+- **React Parallax Tilt** - 3D tilt effects
+- **React PDF** - Resume viewer
+- **CSS3** - Custom styling
 
-**📖 Multi-Page Layout**
+## 💼 Skills
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+### Programming Languages
+- JavaScript, TypeScript, HTML5, CSS3
 
-**📱 Fully Responsive**
+### Frameworks & Libraries
+- React.js, Node.js
 
-## Getting Started
+### AI/ML Technologies
+- Generative AI, Prompt Engineering, AI Integration
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+### Tools
+- VS Code, Postman, AI Tools, Data Analytics, No-Code Tools
 
-## 🛠 Installation and Setup Instructions
+## 🚀 Featured Projects
 
-1. Installation: `npm install`
+### 1. My Safe Ride
+A responsive car rental website with modern design and intuitive navigation.
 
-2. In the project directory, you can run: `npm start`
+### 2. Kitabi Khargosh
+AI-powered website built with prompt engineering and no-code AI tools.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+## 📫 Connect With Me
 
-## Usage Instructions
+- **Email:** taniyananwaniwork@gmail.com
+- **LinkedIn:** [linkedin.com/in/taniyananwani](https://www.linkedin.com/in/taniyananwani)
+- **Instagram:** [@thenailshow](https://www.instagram.com/thenailshow)
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+## 🚀 Getting Started
 
-### Show your support
+### Installation
 
-Give a ⭐ if you like this website!
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Run the development server: `npm start`
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+The app will open at [http://localhost:3000](http://localhost:3000)
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+## 🎨 Features
+
+- ✨ Animated typewriter effect
+- 🎯 Smooth navigation
+- 📱 Fully responsive design
+- 📄 Interactive PDF resume viewer
+- 🌟 Particle effects background
+- 💫 3D tilt effects
+
+---
+
+**Made with ❤️ by Taniya Nanwani**
