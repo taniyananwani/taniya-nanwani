@@ -52,7 +52,7 @@ AI-powered website built with prompt engineering and no-code AI tools.
 
 - **Email:** taniyananwaniwork@gmail.com
 - **LinkedIn:** [linkedin.com/in/taniyananwani](https://www.linkedin.com/in/taniyananwani)
-- **Instagram:** [@thenailshow](https://www.instagram.com/thenailshow)
+- **Instagram:** [@Nanwani_taniya](https://www.instagram.com/nanwani_taniya)
 
 ## 🚀 Getting Started
 
